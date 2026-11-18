@@ -10,8 +10,8 @@
   "category": "Synth",
   "file32": "VST/xp-08-arm32.so",
   "file64": "VST/xp-08-arm64.so",
-  "description": "XP-08: an XP-80 style PCM synthesizer that plays Roland SR-JV80 expansion boards from their dumps (put them in roms/). Four board slots, the boards' own JV-1080 patches, four tones per patch with pitch, filter and amp envelopes, two LFOs, matrix control, EFX, chorus and reverb.",
+  "description": "XP-08: an XP-80 style PCM synthesizer that plays Roland SR-JV80 expansion boards from your own dumps (in roms/), with the JV-1080 and JV-880 internal waves from your own dumps too. Four board slots, the boards' own patches, four tones per patch with pitch, filter and amp envelopes, two LFOs, matrix control; three filter models; all 40 EFX types, chorus and reverb.",
   "author": "Stephane Schmitz",
-  "url": "",
+  "url": "https://github.com/eldontyrellcorp/mpc-plugin-xp08",
   "license": "MIT"
 }
