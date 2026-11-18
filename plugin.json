@@ -1,0 +1,17 @@
+{
+  "name": "XP-08",
+  "manufacturer": "Stephane Schmitz",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "SkXP",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/xp-08-arm32.so",
+  "file64": "VST/xp-08-arm64.so",
+  "description": "XP-08: an XP-80 style PCM synthesizer that plays Roland SR-JV80 expansion boards from their dumps (put them in roms/). Four board slots, the boards' own JV-1080 patches, four tones per patch with pitch, filter and amp envelopes, two LFOs, matrix control, EFX, chorus and reverb.",
+  "author": "Stephane Schmitz",
+  "url": "",
+  "license": "MIT"
+}
